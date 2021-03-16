@@ -1,0 +1,48 @@
+{
+	"type": "video",
+	"title": "How to copy a file with input output error using dd",
+	"address": "How-to-copy-a-file-with-input-output-error-using-dd.mp4",
+	"cover": "terminal_os.png",
+	"body": "How to copy a file while skipping input and output error using dd command in Linux.\nCommands:\ndd if=file.mkv of=/home/file_output.mkv conv=noerror,sync bs=4M; sync",
+	"refrences": [
+		"https://lbry.tv/@mlibre:e/how-to-copy-a-file-with-input-output:f"
+	],
+	"youtube": "www.youtube.com/watch?v=Z5ZwL-CcdD4",
+	"githubFileName": "",
+	"donate": {
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"dd",
+		"linux",
+		"terminal",
+		"input",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/how-to-copy-a-file-with-input-output-error-using-dd-1094907132618764288"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/how-copy-file-input-output-error-using-dd-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103967864758619691"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/04/09/how-to-copy-a-file-with-input-output-error-using-dd-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/How-to-copy-a-file-with-input-output-error-using-dd.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/qy1k30v7f27"
+	},
+	"filepath": "posts/How-to-copy-a-file-with-input-output-error-using-dd.json",
+	"filename": "How-to-copy-a-file-with-input-output-error-using-dd.json"
+}

@@ -1,0 +1,49 @@
+{
+	"type": "video",
+	"title": "How to change screen gamma in Linux using terminal",
+	"address": "How_to_change_screen_gamma_in_Linux_using_terminal.mp4",
+	"cover": "terminal_os.png",
+	"body": "How to change screen gamma value in Linux using Terminal.\nCommands:\nxgamma -gamma 0.8\nxgamma -gamma 1",
+	"refrences": [
+		"https://lbry.tv/@mlibre:e/how-to-change-screen-gamma-in-linux:5"
+	],
+	"youtube": "www.youtube.com/watch?v=HpUUBEoaMBA",
+	"githubFileName": "How to change screen gamma in Linux using terminal",
+	"donate": {
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"screen",
+		"linux",
+		"terminal",
+		"gamma",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/how-to-change-screen-gamma-in-linux-using-terminal-1089830646369361920"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/how-change-screen-gamma-linux-using-terminal-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103888956984829077"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/03/26/how-to-change-screen-gamma-in-linux-using-terminal-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/How to change screen gamma in Linux using terminal.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/fv5xidpx9p3"
+	},
+	"filepath": "users/mlibre/posts/How to change screen gamma in Linux using terminal/post.json",
+	"filename": "post.json",
+	"folderPath": "users/mlibre/posts/How to change screen gamma in Linux using terminal/"
+}

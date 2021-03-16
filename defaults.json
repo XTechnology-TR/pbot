@@ -1,0 +1,17 @@
+{
+	"viewport": {"width": 1900, "height": 950, "deviceScaleFactor": 1, "isLandscape": 1 },
+	"userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+	"headless": false,
+	"useTor": false,
+	"port": 5000,
+	"useExpress": false,
+	"useCronForLike": false,
+	"cronEveryMin": 1,
+	"botRunChance": 2,
+	"runOnStart": true,
+	"logToFile": false,
+	"torRange": [50,62],
+	"closeBrowser": false,
+	"defaultUser" : "mlibre",
+	"sms": ["minds" , "linkedin" , "gab", "wordpress", "github", "dtube"]
+}

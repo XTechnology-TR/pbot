@@ -1,0 +1,48 @@
+{
+	"type": "video",
+	"title": "Connect WIFI from Linux terminal using nmcli",
+	"address": "video.mp4",
+	"cover": "terminal_os.png",
+	"body": "Connect to a WIFI from Linux terminal using nmcli command line tools.\nCommands:\nnmcli dev status\nnmcli device wifi list\nnmcli con up conn_profile\nnmcli con down conn_profile\nnmcli dev wifi connect somepass password somepass",
+	"refrences": [
+		"https://open.lbry.com/@mlibre:e/connect-wifi-from-linux-terminal-using:7?r=BHd7Gp3sJy8J5kx8xgDGZU842u2heXNw"
+	],
+	"youtube": "www.youtube.com/watch?v=tLLTjsgIpYY",
+	"githubFileName": "",
+	"donate": {
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"wifi",
+		"linux",
+		"terminal",
+		"nmcli",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/connect-wifi-from-linux-terminal-using-nmcli-1089593056644546560"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/connect-wifi-from-linux-terminal-using-nmcli-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103888950204970461"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/03/26/connect-wifi-from-linux-terminal-using-nmcli-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/Connect_WIFI_from_Linux_terminal_using_nmcli.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/81jng6cvi0t"
+	},
+	"filepath": "posts/Connect_WIFI_from_Linux_terminal_using_nmcli.json",
+	"filename": "Connect_WIFI_from_Linux_terminal_using_nmcli.json"
+}

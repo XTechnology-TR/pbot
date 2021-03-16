@@ -1,0 +1,47 @@
+{
+	"type": "video",
+	"title": "How to configure proxy server for Chromium browser",
+	"address": "How_to_configure_proxy_server_for_chromium_browser.mp4",
+	"cover": "terminal_os.png",
+	"body": "How to configure a proxy server for Chromium browser.\nCommands:\nchromium-browser --proxy-server='socks5://127.0.0.1:999'",
+	"refrences": [
+		"https://lbry.tv/@mlibre:e/how-to-configure-proxy-server-for:c"
+	],
+	"youtube": "www.youtube.com/watch?v=_eNnEHF7tho",
+	"donate":{
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"Chromium",
+		"linux",
+		"terminal",
+		"proxy",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/how-to-configure-proxy-server-for-chromium-browser-1090566411294400512"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/how-configure-proxy-server-chromium-browser-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103899978933852383"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/03/28/how-to-configure-proxy-server-for-chromium-browser-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/How_to_configure_proxy_server_for_Chromium_browser.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/e0nhu9hwnr8"
+	},
+	"filepath": "posts/How_to_configure_proxy_server_for_Chromium_browser.json",
+	"filename": "How_to_configure_proxy_server_for_Chromium_browser.json"
+}

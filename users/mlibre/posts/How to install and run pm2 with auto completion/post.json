@@ -1,0 +1,48 @@
+{
+    "type": "video",
+    "title": "How to install and run pm2 with auto completion",
+    "address": "How-to-install-and-run-pm2-with-auto-completion.mp4",
+    "cover": "contents/files/pm2.jpg",
+    "body": "How to install and run pm2 with autocompletion.\nHow to enable pm2 auto completion.",
+    "refrences": [
+        "https://lbry.tv/@mlibre:e/how-to-install-and-run-pm2-with-auto:b"
+    ],
+    "youtube": "www.youtube.com/watch?v=VNYzNYZLZyQ",
+    "githubFileName": "",
+	"donate": {
+        "eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+    },
+    "tags": [
+        "pm2",
+        "completion",
+        "linux",
+        "terminal",
+        ""
+    ],
+    "minds": {
+        "status": true,
+        "link": "https://www.minds.com/mlibre/blog/how-to-install-and-run-pm2-with-auto-completion-1100785327972515840"
+    },
+    "linkedin": {
+        "status": true,
+        "link": "https://www.linkedin.com/pulse/how-install-run-pm2-auto-completion-masoud-ghorbanzadeh/?published=t"
+    },
+    "gab": {
+        "status": true,
+        "link": "https://gab.com/mlibre/posts/104059628662973976"
+    },
+    "wordpress": {
+        "status": true,
+        "link": "https://mlibrego.wordpress.com/2020/04/25/how-to-install-and-run-pm2-with-auto-completion/"
+    },
+    "github": {
+        "status": true,
+        "link": "https://github.com/mlibre/contents/blob/master/posts/How-to-install-and-run-pm2-with-auto-completion.md"
+    },
+    "dtube": {
+        "status": true,
+        "link": "https://d.tube/#!/v/mlibregop/vaa2r8am9du"
+    },
+    "filepath": "posts/How-to-install-and-run-pm2-with-auto-completion.json",
+    "filename": "How-to-install-and-run-pm2-with-auto-completion.json"
+}

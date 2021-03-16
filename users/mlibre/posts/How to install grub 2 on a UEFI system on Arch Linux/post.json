@@ -1,0 +1,48 @@
+{
+	"type": "video",
+	"title": "How to install grub 2 on a UEFI system on Arch Linux",
+	"address": "How-to-install-grub-2-on-a-UEFI-system-on-Arch-Linux.mp4",
+	"cover": "terminal_os.png",
+	"body": "Install grub 2 on a UEFI system, EFI partition, on Arch Linux\nCommands:\nsudo pacman -S grub efibootmgr\nsudo mount /dev/sdxx /mnt # sdxx is your EFI partition.\nsudo grub-install --target=x86_64-efi --efi-directory=/mnt --bootloader-id=grub --recheck\nsudo grub-mkconfig -o /boot/grub/grub.cfg\nsudo grub-mkconfig -o /mnt/EFI/grub/grub.cfg\n* Note: If you got an error, try this before grub-install:\nsudo mount /dev/sdxx /boot/efi/\nsudo mount -t efivarfs efivarfs /sys/firmware/efi/efivars/",
+	"refrences": [
+		"https://lbry.tv/@mlibre:e/how-to-install-grub-2-on-a-uefi-system:f"
+	],
+	"youtube": "www.youtube.com/watch?v=EDx7PhDBP-o",
+	"githubFileName": "",
+	"donate": {
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"UEFI",
+		"linux",
+		"partition",
+		"EFI",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/how-to-install-grub-2-on-a-uefi-system-on-arch-linux-1095381187676749824"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/how-install-grub-2-uefi-system-arch-linux-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103975222299800286"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/04/10/how-to-install-grub-2-on-a-uefi-system-on-arch-linux-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/How-to-install-grub-2-on-a-UEFI-system-on-Arch-Linux.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/6r1nz9ac1bz"
+	},
+	"filepath": "posts/How-to-install-grub-2-on-a-UEFI-system-on-Arch-Linux.json",
+	"filename": "How-to-install-grub-2-on-a-UEFI-system-on-Arch-Linux.json"
+}

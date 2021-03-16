@@ -1,0 +1,47 @@
+{
+	"type": "video",
+	"title": "Set screen brightness using terminal",
+	"address": "set_screen_brightness_using_terminal.mp4",
+	"cover": "terminal_os.png",
+	"body": "Set screen brightness in Linux using Terminal.\nCommands:\nsudo nano /sys/class/backlight/radeon_bl0/brightness",
+	"refrences": [
+		"https://lbry.tv/@mlibre:e/set-screen-brightness-using-terminal:2"
+	],
+	"youtube": "www.youtube.com/watch?v=Sg78DgRF0Ic",
+	"donate":{
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"screen",
+		"linux",
+		"terminal",
+		"brightness",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/set-screen-brightness-using-terminal-1089798179177103360"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/set-screen-brightness-using-terminal-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103888972045764544"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/03/26/set-screen-brightness-using-terminal-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/set_screen_brightness_using_terminal.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/6e11lfb1un8"
+	},
+	"filepath": "posts/set_screen_brightness_using_terminal.json",
+	"filename": "set_screen_brightness_using_terminal.json"
+}

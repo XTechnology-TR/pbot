@@ -1,0 +1,47 @@
+{
+    "type": "video",
+    "title": "run 1 time script via pm2, while terminating bash or ssh session",
+    "address": "run-1-time-script-via-pm2-while-terminating-bash-or-ssh session.mp4",
+    "cover": "pm2.jpg",
+    "body": "run 1-time script while terminating bash or ssh session via pm2.\nCommands:\npm2 start index.js --no-autorestart",
+    "refrences": [
+        "https://lbry.tv/@mlibre:e/run-1-time-script-via-pm2-while:b"
+    ],
+    "youtube": "www.youtube.com/watch?v=KiE91zIlyxw",
+    "githubFileName": "",
+	"donate": {
+        "eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+    },
+    "tags": [
+        "pm2",
+        "norestart",
+        "ssh",
+        "bash"
+    ],
+    "minds": {
+        "status": true,
+        "link": "https://www.minds.com/mlibre/blog/run-1-time-script-via-pm2-while-terminating-bash-or-ssh-sess-1100850394709590016"
+    },
+    "linkedin": {
+        "status": true,
+        "link": "https://www.linkedin.com/pulse/run-1-time-script-via-pm2-while-terminating-bash-ssh-ghorbanzadeh/?published=t"
+    },
+    "gab": {
+        "status": true,
+        "link": "https://gab.com/mlibre/posts/104060646247600507"
+    },
+    "wordpress": {
+        "status": true,
+        "link": "https://mlibrego.wordpress.com/2020/04/25/run-1-time-script-via-pm2-while-terminating-bash-or-ssh-session/"
+    },
+    "github": {
+        "status": true,
+        "link": "https://github.com/mlibre/contents/blob/master/posts/run-1-time-script-via-pm2-while-terminating-bash-or-ssh session.md"
+    },
+    "dtube": {
+        "status": true,
+        "link": "https://d.tube/#!/v/mlibregop/ek1z9r0hu56"
+    },
+    "filepath": "users/mlibre/posts/run-1-time-script-via-pm2-while-terminating-bash-or-ssh session.json",
+    "filename": "run-1-time-script-via-pm2-while-terminating-bash-or-ssh session.json"
+}

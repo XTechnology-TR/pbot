@@ -1,0 +1,42 @@
+{
+    "type": "video",
+    "title": "How to install and run a 32 bit package on a 64 bit on Debian, Ubuntu",
+    "address": "How-to-install-and-run-a-64-bit-package-on-32-bit-Debian.mp4",
+    "cover": "terminal_os.png",
+    "body": "Install and run 32-bit packages on a 64-bit system. Debian based.\n\tCommands:\n\tsudo dpkg --add-architecture i386\n\tsudo apt-get update\n\tsudo apt-get install package:i386",
+    "refrences": [
+        "https://open.lbry.com/@mlibre:e/how-to-install-and-run-a-64-bit-package:7"
+    ],
+    "youtube": "www.youtube.com/watch?v=IRuIG1K9k-M",
+    "githubFileName": "",
+	"donate": {
+        "eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+    },
+    "tags": [
+        "linux",
+        "terminal",
+        "tutorial"
+    ],
+    "minds": {
+        "status": true,
+        "link": "https://www.minds.com/mlibre/blog/how-to-install-and-run-a-64-bit-package-on-32-bit-on-debian-1210519189602439168"
+    },
+    "gab": {
+        "status": true,
+        "link": "/mlibre/posts/104060646247600507"
+    },
+    "wordpress": {
+        "status": true,
+        "link": "https://mlibrego.wordpress.com/2021/03/05/how-to-install-and-run-a-32-bit-package-on-a-64-bit-on-debian-ubuntu/"
+    },
+    "github": {
+        "status": true,
+        "link": "https://github.com/mlibre/contents/blob/master/posts/How-to-install-and-run-a-64-bit-package-on-32-bit-Debian.md"
+    },
+    "dtube": {
+        "status": true,
+        "link": ""
+    },
+    "filepath": "users/mlibre/posts/How-to-install-and-run-a-64-bit-package-on-32-bit-Debian.json",
+    "filename": "How-to-install-and-run-a-64-bit-package-on-32-bit-Debian.json"
+}

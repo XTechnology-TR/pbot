@@ -1,0 +1,45 @@
+{
+    "type": "video",
+    "title": "Correct way to chroot to another Linux",
+    "address": "Correct-way-to-chroot-to-another-Linux.mp4",
+    "cover": "terminal_os.png",
+    "body": "Properly prepare a Linux system for chroot to another one.\nCommands:\nsudo mount /dev/sdb1 /mnt/\nsudo mount -t proc none /mnt/proc\nsudo mount --bind /sys /mnt/sys\nsudo mount --bind /dev /mnt/dev\nsudo chroot /mnt",
+    "refrences": [
+        "https://lbry.tv/@mlibre:e/correct-way-to-chroot-to-another-linux:6"
+    ],
+    "youtube": "www.youtube.com/watch?v=l0wpWUyUSuI",
+    "githubFileName": "",
+	"donate": {
+        "eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+    },
+    "tags": [
+        "chroot",
+        "Linux"
+    ],
+    "minds": {
+        "status": true,
+        "link": "https://www.minds.com/mlibre/blog/correct-way-to-chroot-to-another-linux-1100478208428433408"
+    },
+    "linkedin": {
+        "status": true,
+        "link": "https://www.linkedin.com/pulse/correct-way-chroot-another-linux-masoud-ghorbanzadeh/?published=t"
+    },
+    "gab": {
+        "status": true,
+        "link": "https://gab.com/mlibre/posts/104054869879897329"
+    },
+    "wordpress": {
+        "status": true,
+        "link": "https://mlibrego.wordpress.com/2020/04/24/correct-way-to-chroot-to-another-linux-2/"
+    },
+    "github": {
+        "status": true,
+        "link": "https://github.com/mlibre/contents/blob/master/posts/Correct-way-to-chroot-to-another-Linux.md"
+    },
+    "dtube": {
+        "status": true,
+        "link": "https://d.tube/#!/v/mlibregop/nn48079rg59"
+    },
+    "filepath": "posts/Correct-way-to-chroot-to-another-Linux.json",
+    "filename": "Correct-way-to-chroot-to-another-Linux.json"
+}

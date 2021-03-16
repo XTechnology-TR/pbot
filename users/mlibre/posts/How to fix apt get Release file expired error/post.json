@@ -1,0 +1,47 @@
+{
+	"type": "video",
+	"title": "How to fix apt get Release file expired error",
+	"address": "How_to_fix_apt_get_Release_file_expired_error.mp4",
+	"cover": "terminal_os.png",
+	"body": "How to fix apt-get Release file expired error.\nCommands:\nsudo apt-get update -o Acquire::Check-Valid-Until=false",
+	"refrences": [
+		"https://lbry.tv/@mlibre:e/how-to-fix-apt-get-release-file-expired:9"
+	],
+	"youtube": "www.youtube.com/watch?v=Kge26ccPUEs",
+	"donate":{
+		"eth": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
+	},
+	"tags": [
+		"apt",
+		"linux",
+		"terminal",
+		"expire",
+		"tutorial"
+	],
+	"minds": {
+		"status": true,
+		"link": "https://www.minds.com/mlibre/blog/how-to-fix-apt-get-release-file-expired-error-1089859069236084736"
+	},
+	"linkedin": {
+		"status": true,
+		"link": "https://www.linkedin.com/pulse/how-fix-apt-get-release-file-expired-error-masoud-ghorbanzadeh/?published=t"
+	},
+	"gab": {
+		"status": true,
+		"link": "https://gab.com/mlibre/posts/103888935217871774"
+	},
+	"wordpress": {
+		"status": true,
+		"link": "https://mlibrego.wordpress.com/2020/03/26/how-to-fix-apt-get-release-file-expired-error-2/"
+	},
+	"github": {
+		"status": true,
+		"link": "https://github.com/mlibre/contents/blob/master/posts/How_to_fix_apt_get_Release_file_expired_error.md"
+	},
+	"dtube": {
+		"status": true,
+		"link": "https://d.tube/#!/v/mlibregop/vh7agra12z1"
+	},
+	"filepath": "posts/How_to_fix_apt_get_Release_file_expired_error.json",
+	"filename": "How_to_fix_apt_get_Release_file_expired_error.json"
+}
