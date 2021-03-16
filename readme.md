@@ -4,7 +4,6 @@ Your best assistant to publish your contents (post, video, ...) easily, all arou
 
 with **PBot** you don't have to publish every single of your posts one by one on social platforms.
 
-Give it your posts and it will publish them on all of your accounts.
 You can consider MBot as the zapier.com **free** alternative.
 
 Supported platforms until now are:
@@ -18,13 +17,13 @@ Supported platforms until now are:
 
 TODO:
 * Twitter moment
-* Meidum
+* Medium
 * ....
 
 # How to Earn More With Publisher Bot?
 It is easy.
 The bot will also publish your posts on crypto-based platforms like d.tube.
-It will put your desire links at the description. it could be your youtube channel link, your ETH donation address or whatever.
+It will put your desire links in the description. it could be your youtube channel link, your ETH donation address, or whatever.
 This will automatically viral your videos because of the massive links!
 
 Installation
@@ -37,7 +36,7 @@ npm i
 
 Running
 ========
-Create a user in `users` folder. You can modify the `sample_user`.
+Create a user in the `users` folder. You can modify the `sample_user`.
 ```bash
 node pbot.js -u mlibre -h -s minds -s linkedin
 node pbot.js -u mlibre -c -h
