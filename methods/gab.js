@@ -74,7 +74,7 @@ exports.post = async function (page, post, sec)
 	const videoFileEl = await page.$(videoSel);
 	await videoFileEl.uploadFile(post.folderPath + post.address);
 	let submited = false;
-	for (let index = 0; index < 10; index++)
+	for (let index = 0; index < 15; index++)
 	{
 		try 
 		{

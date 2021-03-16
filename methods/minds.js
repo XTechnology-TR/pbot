@@ -86,7 +86,8 @@ exports.post = async function (page, post)
 	let {body} = post;
 	body = body.replace(/<mcode>/g, "```");
 	body = body.replace(/<\/mcode>/g, "");
-	await page.keyboard.type(body);
+	await common.pasteOnCurrent(page, body);
+	// await page.keyboard.type(body);
 	for (let index = 0; index < post.refrences.length; index++)
 	{
 		const element = post.refrences[index];

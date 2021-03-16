@@ -343,6 +343,20 @@ exports.typeOnCurrentEnter = async function typeOnCurrentEnter(page , text , mai
 	await delay(5000);
 };
 
+exports.pasteOnCurrent = async function pasteOnCurrent(page , text , mainPage)
+{
+	if(!mainPage)
+	{
+		mainPage = page;
+	}
+	await delay(2000);
+	clipboardy.writeSync(text);
+	await mainPage.keyboard.down("Control");
+	await mainPage.keyboard.press("V");
+	await mainPage.keyboard.up("Control");
+	await delay(2000);
+};
+
 exports.pasteOnCurrentEnter = async function pasteOnCurrentEnter(page , text , mainPage)
 {
 	if(!mainPage)
@@ -350,7 +364,6 @@ exports.pasteOnCurrentEnter = async function pasteOnCurrentEnter(page , text , m
 		mainPage = page;
 	}
 	await delay(2000);
-	// await el.type(text);
 	clipboardy.writeSync(text);
 	await mainPage.keyboard.down("Control");
 	await mainPage.keyboard.press("V");
