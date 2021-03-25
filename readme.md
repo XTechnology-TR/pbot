@@ -18,6 +18,7 @@ Supported platforms until now are:
 TODO:
 * Twitter moment
 * Medium
+* Ecency
 * ....
 
 # How to Earn More With Publisher Bot?
