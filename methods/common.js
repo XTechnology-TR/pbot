@@ -10,7 +10,6 @@ const defaults = require("../defaults.json");
 const clipboardy = require("clipboardy");
 var path = require("path");
 
-/***************** common *****************/
 
 exports.internetCheck = async function()
 {
