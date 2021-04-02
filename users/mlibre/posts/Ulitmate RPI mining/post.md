@@ -1,5 +1,5 @@
 # Ultimate Monero Mining Guide with Raspberry Pi
-In this tutorial, we go through a complete guide for raspberry pi mining in 2021. We specifically focus on `Monero`, `XMR`, and generally any cryptocurrency that uses CPU-based algorithms like `RandomX`.
+In this tutorial, we go through a complete guide for raspberry pi mining in 2021. We specifically focus on `Monero`, `XMR`, and generally, any cryptocurrency that uses CPU-based algorithms like `RandomX`.
 
 Table of content
 ====
@@ -43,7 +43,7 @@ Official: https://www.raspberrypi.org/software/
 Arch: https://aur.archlinux.org/packages/rpi-imager/
 2. Open the `imager`
 3. For the `operating system`, it's better to use `ubuntu LTS`.  
-You can also try `Raspberry pi 64-bit full` if it's available the the menu.   
+You can also try `Raspberry pi 64-bit full` if it's available the menu.   
 You can either use `imager` to download and install OS for you. or you can manually download and format it into sd card using `imager`  
 Let's do it manually  
 Download an `Ubuntu LTS` 64 bit:  
@@ -67,7 +67,7 @@ touch ssh
 Now put the `sdcard` into your `RPI`.  
 Let's say you have a modem. that is connected to your PC.  
 Now connect your `RPI` to the modem as well using a LAN cable.  
-Optionally, you can connect your `RPI` to a monitor via `HDMI` cable.  
+Optionally, you can connect your `RPI` to a monitor via an `HDMI` cable.  
 When `RPI` is not connected to any screen, they call it `headless`.  
 Turn it on
 

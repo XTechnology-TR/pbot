@@ -5,9 +5,8 @@ module.exports =
 	"address": "post.md",
 	"cover": "cover.jpg",
 	"refrences": [
-		"https://lbry.tv/@mlibre:e/how-to-ssh-using-openssh-in-android:0"
+		"https://odysee.com/@mlibre:e/raspberry-pi-mining-guide:6"
 	],
-	"youtube": "https://www.youtube.com/watch?v=zbhfy16pbtk",
 	"githubFileName": "How to ssh using OpenSSH in Android",
 	"donate": {
 		"ETH": "0xc9b64496986E7b6D4A68fDF69eF132A35e91838e"
@@ -17,21 +16,41 @@ module.exports =
 		"terminal",
 		"tutorial"
 	],
+	"read.cash": {
+		"status": true,
+		"link": "https://read.cash/@mlibre/ultimate-monero-mining-guide-with-raspberry-pi-5ac4817f"
+	},
 	"minds": {
 		"status": true,
-		"link": "https://www.minds.com/mlibre/blog/how-to-ssh-using-openssh-in-android-1217427926494380032"
+		"link": "https://www.minds.com/mlibre/blog/ultimate-raspberry-pi-mining-guide-1224402288229613568"
 	},
-	"gab": {
+	"reddit": {
 		"status": true,
-		"link": "https://gab.com/mlibre/posts/105882162038085146"
+		"link": "https://www.reddit.com/user/mlibrege/comments/mip0nt/ultimate_monero_mining_guide_with_raspberry_pi/"
+	},
+	"trybe": {
+		"status": true,
+		"link": "https://trybe.one/ultimate-monero-mining-guide-with-raspberry-pi"
+	},
+	"blogspot": {
+		"status": true,
+		"link": "https://mlibrego.blogspot.com/2021/04/ultimate-monero-mining-guide-with.html"
 	},
 	"wordpress": {
-		"status": true,
+		"status": false,
 		"link": "https://mlibrego.wordpress.com/2021/03/13/how-to-ssh-using-openssh-in-android/"
 	},
 	"github": {
+		"status": false,
+		"link": "https://mlibrego.wordpress.com/2021/03/13/how-to-ssh-using-openssh-in-android/"
+	},
+	"cent": {
 		"status": true,
-		"link": "https://github.com/mlibre/contents/blob/master/posts/How to ssh using OpenSSH in Android.md"
+		"link": "https://beta.cent.co/mlibre/+7hp0s2"
+	},
+	"medium": {
+		"status": true,
+		"link": "https://mlibre.medium.com/ultimate-monero-mining-guide-with-raspberry-pi-643b965626e0"
 	},
 	"filepath": "users/mlibre/posts/How to ssh using OpenSSH in Android/post.js",
 	"filename": "post.js",
